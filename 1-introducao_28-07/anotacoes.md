@@ -21,6 +21,7 @@
 ## 4. Técnicas de IA da disciplina
 **Usadas:**
 - Redes neurais → aprendizagem → reconhecimento de padrões (deep learning, machine learning, mineração de dados)
+  - mineração de dados = encontrar ouro => o padrão
 - Sistemas multiagentes
 
 **Não usadas:**
