@@ -12,6 +12,8 @@
   - Ex.: pacientes com febre eram atendidos antes → padrão identificado após muitas observações
 - **Monitoramento** (sensoriamento e atuação) → automação
 - **Predição e previsão** → reconhecer padrões → volume de dados → *algoritmos de mineração de dados*
+- Predição: classificação = categorização = **etiquetação**
+- Previsão: séries temporais = tempo contínuo = **projeção**
 
 ## 3. SAD x Sistema de Recomendação
 - **SAD**: decide com base em histórico geral de evidências (não só do usuário)
